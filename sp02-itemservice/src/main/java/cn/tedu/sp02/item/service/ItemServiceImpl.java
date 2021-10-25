@@ -11,7 +11,7 @@ import cn.tedu.sp01.service.ItemService;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * 项服务impl
+ * ItemServiceImpl
  *
  * @author tsz
  * @date 2021/10/25

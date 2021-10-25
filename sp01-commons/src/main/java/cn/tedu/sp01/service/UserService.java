@@ -10,6 +10,7 @@ import cn.tedu.sp01.pojo.User;
  */
 public interface UserService {
     /**
+     * 获取用户
      * 模拟根据用户id获取用户
      *
      * @param id id
